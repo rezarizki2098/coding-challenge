@@ -1,5 +1,5 @@
 // Coding Challenge
-// 1/366 day
+// 2/366 day
 
 // https://www.codewars.com/kata/54ff3102c1bad923760001f3
 
